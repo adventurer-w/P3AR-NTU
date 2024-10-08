@@ -21,3 +21,6 @@ Run the `get_all_frames.py` script to split each frame from the `raw.mkv` videos
 ### Step 4: Organize Video Samples
 Run the `folders_for_each_video.py` script to organize the NTU-Encrypted dataset. This script uses the information in `output_v2.txt` to sort the video frames into corresponding folders, each representing a video sample.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
